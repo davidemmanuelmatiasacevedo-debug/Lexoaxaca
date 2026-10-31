@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LEX Oaxaca: tus derechos en lenguaje sencillo</title>
+<meta name="description" content="Orientación legal básica para Oaxaca, en lenguaje sencillo. Funciona sin internet.">
+<meta name="theme-color" content="#1f5f4a">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>LEX Oaxaca</h1>
+  <p>Cuéntanos qué te pasó y te decimos qué hacer.</p>
+  <div class="barra">
+    <button id="menos" aria-label="Letra más pequeña">A−</button>
+    <button id="mas" aria-label="Letra más grande">A+</button>
+  </div>
+</header>
+<main>
+  <label for="q" class="sr">Busca tu situación</label>
+  <input id="q" type="search" placeholder="Ej: me despidieron, me robaron, no me devuelven mi depósito" autocomplete="off">
+  <nav aria-label="Secciones">
+    <button data-v="temas" class="on">Temas</button>
+    <button data-v="directorio">Teléfonos</button>
+    <button data-v="leyes">Leyes</button>
+  </nav>
+  <p id="aviso" class="aviso"></p>
+  <section id="lista"></section>
+</main>
+<footer>
+  <p>Información general para Oaxaca. No es asesoría legal; confirma siempre el texto vigente. Los temas marcados "Verificado" tienen fecha de revisión; los marcados "Por verificar" aún no.</p>
+  <p><a id="reporte" href="#" target="_blank" rel="noopener noreferrer">Reportar un error</a></p>
+</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
