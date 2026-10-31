@@ -44,7 +44,7 @@ window.DATA={
    "palabras": "amenaza amenazar intimidacion miedo daño advertencia",
    "queEs": "Consiste en comunicar a otra persona la intención de causarle un mal, en las circunstancias que establece la legislación penal.",
    "queConlleva": "Puede generar responsabilidad penal y otras medidas de protección, dependiendo de los hechos y de la ley aplicable.",
-   "ley": "Código Penal para el Estado de Oaxaca, capítulo sobre amenazas y cobranza extrajudicial ilegal. Artículos específicos pendientes de verificación.",
+   "ley": "Código Penal para el Estado de Oaxaca, capítulo sobre amenazas y cobranza extrajudicial ilegal.",
    "importante": "Es importante conservar mensajes, audios y otros datos que permitan documentar los hechos, sin ponerse en riesgo.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Penal_para_el_Edo_de_Oax_%28_Ref_dto_907_aprob_LXVI_Legis_9_dic_2025_PO_2_12a_secc_10_ene_2026%29.pdf",
@@ -119,7 +119,7 @@ window.DATA={
    "palabras": "despojo terreno propiedad casa inmueble invadir ocupar",
    "queEs": "Es una conducta relacionada con ocupar o aprovecharse ilícitamente de un inmueble o de un derecho real ajeno, conforme a los supuestos previstos por la ley.",
    "queConlleva": "Puede generar responsabilidad penal y consecuencias para restituir el inmueble o reparar los daños.",
-   "ley": "Código Penal para el Estado de Oaxaca o legislación federal, según corresponda. Artículos específicos pendientes de verificación.",
+   "ley": "Código Penal para el Estado de Oaxaca o legislación federal, según corresponda.",
    "importante": "Un conflicto de propiedad, posesión o arrendamiento no constituye automáticamente despojo. Deben analizarse los hechos y los documentos.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Penal_para_el_Edo_de_Oax_%28_Ref_dto_907_aprob_LXVI_Legis_9_dic_2025_PO_2_12a_secc_10_ene_2026%29.pdf",
@@ -138,7 +138,7 @@ window.DATA={
    "palabras": "transito infraccion infracciones multa multas velocidad semaforo alto estacionarse exceso velocidad celular alcohol alcoholimetro conducir manejar oaxaca",
    "queEs": "Son las sanciones por incumplir las reglas de circulación: exceso de velocidad, no respetar semáforos o señales, estacionarse en lugar prohibido, usar el celular al manejar, entre otras.",
    "queConlleva": "Normalmente una multa, y según la falta puede haber retención de la licencia o de las placas, o que el vehículo sea remitido a un depósito. En faltas graves, como conducir en estado de ebriedad, puede haber consecuencias más fuertes.",
-   "ley": "En Oaxaca aplican la Ley de Tránsito y Vialidad del Estado y su Reglamento. En carreteras y puentes federales, el Reglamento de Tránsito en Carreteras y Puentes de Jurisdicción Federal. A nivel nacional, la Ley General de Movilidad y Seguridad Vial. Artículos específicos pendientes de verificación.",
+   "ley": "En Oaxaca aplican la Ley de Tránsito y Vialidad del Estado y su Reglamento. En carreteras y puentes federales, el Reglamento de Tránsito en Carreteras y Puentes de Jurisdicción Federal. A nivel nacional, la Ley General de Movilidad y Seguridad Vial.",
    "importante": "Los montos y las faltas cambian según la autoridad (estatal, municipal o federal) y se reforman con frecuencia. Pide siempre que te den por escrito la infracción con el fundamento legal y revisa la versión vigente.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pasos": [
@@ -157,7 +157,7 @@ window.DATA={
    "palabras": "licencia conducir manejar placas tarjeta circulacion permiso vehiculo registro refrendo tenencia motocicleta automovil oaxaca",
    "queEs": "Es la documentación que permite conducir y circular legalmente: licencia de conducir, placas y tarjeta de circulación del vehículo.",
    "queConlleva": "Conducir sin licencia, con la licencia vencida o sin placas o tarjeta de circulación puede generar multa y que el vehículo sea retenido o enviado a un depósito.",
-   "ley": "Ley de Tránsito y Vialidad del Estado de Oaxaca y su Reglamento. A nivel nacional, la Ley General de Movilidad y Seguridad Vial establece bases generales. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Tránsito y Vialidad del Estado de Oaxaca y su Reglamento. A nivel nacional, la Ley General de Movilidad y Seguridad Vial establece bases generales.",
    "importante": "Los requisitos, costos y vigencias los define cada estado. Consulta los trámites vigentes en las oficinas o el portal de la autoridad de movilidad de Oaxaca.",
    "web": "https://www.oaxaca.gob.mx/semovi/marco-juridico/",
    "pasos": [
@@ -174,7 +174,7 @@ window.DATA={
    "palabras": "corralon grua deposito encierro arrastre vehiculo remolque retiro liberar carro moto oaxaca",
    "queEs": "Es cuando la autoridad manda un vehículo a un depósito (corralón), generalmente con grúa, por una infracción, por estar mal estacionado o por estar involucrado en un hecho de tránsito.",
    "queConlleva": "Para recuperar el vehículo normalmente hay que pagar la multa y los cobros por arrastre y depósito, y acreditar que eres el propietario o el responsable.",
-   "ley": "Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca, junto con la Ley de Tránsito y Vialidad del Estado y su Reglamento. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca, junto con la Ley de Tránsito y Vialidad del Estado y su Reglamento.",
    "importante": "Pide el documento que explique por qué se llevaron el vehículo y revisa los cobros que te hagan. Si consideras que fue indebido, puedes inconformarte por las vías que marque la ley.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pasos": [
@@ -191,7 +191,7 @@ window.DATA={
    "palabras": "accidente choque chocar colision atropello atropellado daños lesiones seguro aseguradora ministerio publico vial peatones ciclistas",
    "queEs": "Es un hecho en el que un vehículo causa daños a otro vehículo, a bienes o a personas, incluidos peatones y ciclistas.",
    "queConlleva": "Quien causa el daño puede tener que repararlo (responsabilidad civil). Si hay lesionados o fallecidos, puede haber responsabilidad penal. También puede haber multas de tránsito.",
-   "ley": "Para la reparación del daño, el Código Civil. Para lesiones u homicidio, el Código Penal aplicable. En materia vial, la Ley General de Movilidad y Seguridad Vial y la ley de tránsito del estado. Artículos específicos pendientes de verificación.",
+   "ley": "Para la reparación del daño, el Código Civil. Para lesiones u homicidio, el Código Penal aplicable. En materia vial, la Ley General de Movilidad y Seguridad Vial y la ley de tránsito del estado.",
    "importante": "Si hay lesionados, llama a emergencias y no muevas el vehículo hasta que llegue la autoridad. Si tienes seguro, avisa a la aseguradora. Evita firmar convenios sin entender qué aceptas.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
@@ -210,7 +210,7 @@ window.DATA={
    "palabras": "transporte publico taxi taxis colectivo urbano pasajeros concesion concesiones permiso movilidad servicio oaxaca",
    "queEs": "Son las reglas del servicio de transporte de pasajeros, como taxis, colectivos y autobuses urbanos, y de las concesiones o permisos para prestarlo.",
    "queConlleva": "Prestar el servicio sin concesión o permiso, o incumpliendo sus condiciones, puede generar sanciones, multas y retiro del vehículo. Como usuario, tienes derecho a un servicio seguro.",
-   "ley": "Ley de Movilidad para el Estado de Oaxaca y su Reglamento. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Movilidad para el Estado de Oaxaca y su Reglamento.",
    "importante": "Si tienes una queja del servicio, puedes presentarla ante la autoridad de movilidad del estado. Conserva datos del vehículo, como placas, número económico y hora.",
    "web": "https://www.oaxaca.gob.mx/semovi/marco-juridico/",
    "pasos": [
@@ -227,7 +227,7 @@ window.DATA={
    "palabras": "carretera carreteras caminos puentes casetas autotransporte camion autobus federal estatal peaje oaxaca",
    "queEs": "Son las reglas sobre carreteras, caminos y puentes, y sobre el autotransporte de pasajeros y carga que circula por ellos.",
    "queConlleva": "Cambia según la jurisdicción. En caminos federales, las infracciones y los permisos los regula la normativa federal. En caminos estatales, la normativa de Oaxaca.",
-   "ley": "Federal: Ley de Caminos, Puentes y Autotransporte Federal y Reglamento de Tránsito en Carreteras y Puentes de Jurisdicción Federal. Estatal: Ley de Caminos y Aeropistas de Oaxaca y Ley de Caminos, Carreteras y Puentes para el Estado de Oaxaca. Artículos específicos pendientes de verificación.",
+   "ley": "Federal: Ley de Caminos, Puentes y Autotransporte Federal y Reglamento de Tránsito en Carreteras y Puentes de Jurisdicción Federal. Estatal: Ley de Caminos y Aeropistas de Oaxaca y Ley de Caminos, Carreteras y Puentes para el Estado de Oaxaca.",
    "importante": "Primero identifica si el camino es federal o estatal, porque de eso depende qué ley y qué autoridad aplican.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -244,7 +244,7 @@ window.DATA={
    "palabras": "constitucion derechos humanos garantias libertad igualdad derechos fundamentales pueblos indigenas afromexicano",
    "queEs": "Es la ley suprema. Reconoce los derechos humanos de todas las personas, como la libertad, la igualdad, la seguridad jurídica, la salud y la educación, y organiza el poder público.",
    "queConlleva": "Ninguna autoridad ni ley puede ir contra la Constitución. Si una autoridad viola tus derechos, puedes defenderte, por ejemplo con el juicio de amparo.",
-   "ley": "Constitución Política de los Estados Unidos Mexicanos y Constitución Política del Estado Libre y Soberano de Oaxaca. Artículos específicos pendientes de verificación.",
+   "ley": "Constitución Política de los Estados Unidos Mexicanos y Constitución Política del Estado Libre y Soberano de Oaxaca.",
    "importante": "La Constitución de Oaxaca también reconoce derechos de los pueblos indígenas y afromexicano. Consulta el texto vigente.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
@@ -283,7 +283,7 @@ window.DATA={
    "palabras": "imss issste seguro social incapacidad pension jubilacion semanas cotizadas trabajador servicio medico",
    "queEs": "Son las prestaciones de seguridad social: atención médica, incapacidades, pensiones y otros beneficios para trabajadores y sus familias.",
    "queConlleva": "Estar inscrito te da acceso a servicios médicos e incapacidades. Para una pensión normalmente se exige un mínimo de semanas cotizadas o de años de servicio, según el régimen.",
-   "ley": "Ley del Seguro Social (trabajadores del sector privado) y Ley del ISSSTE (trabajadores del Estado). Artículos específicos pendientes de verificación.",
+   "ley": "Ley del Seguro Social (trabajadores del sector privado) y Ley del ISSSTE (trabajadores del Estado).",
    "importante": "Los requisitos dependen del régimen y de la fecha en que empezaste a cotizar. Consulta tu historial de semanas en el IMSS o tu situación en el ISSSTE.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -300,7 +300,7 @@ window.DATA={
    "palabras": "consumidor profeco compra garantia tienda producto publicidad cobro abusivo devolucion engaño servicio",
    "queEs": "Son tus derechos cuando compras un producto o contratas un servicio: información clara, precio publicado, garantía y que no te cobren de más.",
    "queConlleva": "Si el producto sale defectuoso o no se cumple lo ofrecido, puedes pedir reparación, cambio o devolución según el caso, y presentar una queja.",
-   "ley": "Ley Federal de Protección al Consumidor. Artículos específicos pendientes de verificación.",
+   "ley": "Ley Federal de Protección al Consumidor.",
    "importante": "Guarda tu ticket, factura, contrato o captura de la publicidad. Puedes presentar la queja ante Profeco.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
@@ -318,7 +318,7 @@ window.DATA={
    "palabras": "amparo autoridad violacion derechos suspension juicio proteccion acto reclamado",
    "queEs": "Es un medio de defensa para pedir a un juez federal que proteja tus derechos cuando una autoridad los viola.",
    "queConlleva": "Si se concede, se deja sin efecto el acto de la autoridad. En algunos casos se puede pedir una suspensión mientras se resuelve.",
-   "ley": "Ley de Amparo. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Amparo.",
    "importante": "Tiene plazos para presentarse (por regla general, 15 días) y requisitos técnicos. Conviene hacerlo con un abogado. Verifica los plazos vigentes.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -335,7 +335,7 @@ window.DATA={
    "palabras": "denuncia fiscalia ministerio publico detenido detencion imputado audiencia juicio carpeta investigacion codigo penal derecho guardar silencio abogado",
    "queEs": "Es el camino cuando se comete un delito: se presenta la denuncia, la Fiscalía investiga, y si hay elementos se lleva el caso ante un juez en audiencias.",
    "queConlleva": "Si te detienen, tienes derecho a saber el motivo, a guardar silencio y a contar con un abogado. La víctima tiene derecho a ser informada y a que se repare el daño.",
-   "ley": "Código Nacional de Procedimientos Penales (cómo es el proceso), Código Penal Federal y Código Penal para el Estado de Oaxaca (qué son los delitos y sus penas). Artículos específicos pendientes de verificación.",
+   "ley": "Código Nacional de Procedimientos Penales (cómo es el proceso), Código Penal Federal y Código Penal para el Estado de Oaxaca (qué son los delitos y sus penas).",
    "importante": "Cada delito tiene sus reglas y plazos. No firmes nada que no entiendas y busca un abogado o defensor público.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -353,7 +353,7 @@ window.DATA={
    "palabras": "divorcio custodia alimentos pension alimenticia familiar demanda convivencia hijos matrimonio juzgado",
    "queEs": "Son los procesos para terminar un matrimonio y decidir sobre los hijos: con quién viven, cómo conviven con el otro padre o madre y cuánto se paga de alimentos.",
    "queConlleva": "El juez decide la custodia pensando en el interés de los hijos y fija la pensión alimenticia según las necesidades de quien la recibe y las posibilidades de quien la da.",
-   "ley": "Código Nacional de Procedimientos Civiles y Familiares (el proceso) y Código Civil Federal o Código Civil para el Estado de Oaxaca (los derechos), según corresponda. Artículos específicos pendientes de verificación.",
+   "ley": "Código Nacional de Procedimientos Civiles y Familiares (el proceso) y Código Civil Federal o Código Civil para el Estado de Oaxaca (los derechos), según corresponda.",
    "importante": "Los requisitos cambian según el estado y si el divorcio es de común acuerdo o no. Consulta con un abogado o con asesoría jurídica gratuita.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -370,7 +370,7 @@ window.DATA={
    "palabras": "civil contrato renta arrendamiento propiedad herencia testamento obligaciones bienes daños inquilino casero",
    "queEs": "Son las reglas entre particulares: contratos como la renta o la compraventa, la propiedad de los bienes, la reparación de daños y la herencia.",
    "queConlleva": "Si alguien incumple un contrato, la otra parte puede exigir su cumplimiento o una indemnización. Si alguien causa un daño, debe repararlo. La herencia se reparte con testamento o, si no hay, según la ley.",
-   "ley": "Código Civil Federal y Código Civil para el Estado de Oaxaca, según corresponda. Artículos específicos pendientes de verificación.",
+   "ley": "Código Civil Federal y Código Civil para el Estado de Oaxaca, según corresponda.",
    "importante": "Pon los acuerdos por escrito y guarda comprobantes de pago. Las reglas varían entre el código federal y el del estado.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
@@ -388,7 +388,7 @@ window.DATA={
    "palabras": "niños niñas adolescentes infancia menores derechos familia proteccion dif maltrato",
    "queEs": "Son los derechos de las personas menores de 18 años, como vivir en familia, a la educación, a la salud, a ser escuchadas y a ser protegidas de la violencia.",
    "queConlleva": "Toda decisión que les afecte debe considerar el interés superior de la niñez. Si hay maltrato o riesgo, las autoridades pueden intervenir para protegerlos.",
-   "ley": "Ley General de los Derechos de Niñas, Niños y Adolescentes. Artículos específicos pendientes de verificación.",
+   "ley": "Ley General de los Derechos de Niñas, Niños y Adolescentes.",
    "importante": "Si conoces un caso de maltrato, puedes reportarlo a las autoridades de protección de la niñez, como el DIF, o a la Fiscalía.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -405,7 +405,7 @@ window.DATA={
    "palabras": "mujer mujeres violencia genero violencia familiar acoso hostigamiento feminicidio orden proteccion maltrato",
    "queEs": "Es cualquier acción que daña a una mujer por su género: violencia física, psicológica, sexual, económica o patrimonial, en la familia, el trabajo, la escuela o la comunidad.",
    "queConlleva": "La ley prevé medidas de protección, como órdenes de protección, y atención a las víctimas. Algunas conductas además son delitos.",
-   "ley": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y los códigos penales aplicables. Artículos específicos pendientes de verificación.",
+   "ley": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y los códigos penales aplicables.",
    "importante": "Si estás en peligro, llama al 911. Puedes presentar denuncia ante la Fiscalía y pedir medidas de protección.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -423,7 +423,7 @@ window.DATA={
    "palabras": "salud hospitales medicina servicios medicos pacientes medicamentos sanitario atencion medica negligencia",
    "queEs": "Es el derecho a la protección de la salud y a recibir atención médica adecuada, con trato digno e información clara sobre tu diagnóstico y tratamiento.",
    "queConlleva": "Si recibes mala atención, puedes presentar queja y, si hubo daño, reclamar responsabilidad. En urgencias, los hospitales deben atender.",
-   "ley": "Ley General de Salud. Artículos específicos pendientes de verificación.",
+   "ley": "Ley General de Salud.",
    "importante": "Pide copia de tu expediente clínico y guarda recetas y estudios. Las quejas se presentan ante la institución o las autoridades de salud.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -440,7 +440,7 @@ window.DATA={
    "palabras": "seguridad publica policia policias seguridad instituciones prevencion delito patrulla abuso autoridad",
    "queEs": "Son las reglas sobre la policía y las instituciones que previenen el delito y cuidan el orden, y los límites de su actuación.",
    "queConlleva": "La policía debe respetar tus derechos humanos. Si hay abuso, puedes presentar queja o denuncia.",
-   "ley": "Ley General del Sistema Nacional de Seguridad Pública. Artículos específicos pendientes de verificación.",
+   "ley": "Ley General del Sistema Nacional de Seguridad Pública.",
    "importante": "Si tienes un problema con un policía, anota nombre, número de patrulla, hora y lugar. Puedes quejarte ante asuntos internos o la comisión de derechos humanos.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -457,7 +457,7 @@ window.DATA={
    "palabras": "delincuencia organizada crimen organizado cartel organizacion criminal investigacion banda",
    "queEs": "Es cuando tres o más personas se organizan de forma permanente para cometer ciertos delitos graves.",
    "queConlleva": "Tiene reglas especiales de investigación y penas más severas que los delitos comunes.",
-   "ley": "Ley Federal contra la Delincuencia Organizada. Artículos específicos pendientes de verificación.",
+   "ley": "Ley Federal contra la Delincuencia Organizada.",
    "importante": "Se aplica solo a los delitos que la ley señala. Una persona no es delincuencia organizada por el simple hecho de conocer a alguien.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -474,7 +474,7 @@ window.DATA={
    "palabras": "migracion migrante extranjero visa residencia deportacion estancia frontera regularizar",
    "queEs": "Son las reglas para entrar, transitar, permanecer y salir de México, y los derechos de las personas migrantes.",
    "queConlleva": "Estar sin documentos puede tener consecuencias migratorias, pero las personas migrantes conservan sus derechos humanos, como atención médica y acceso a la justicia.",
-   "ley": "Ley de Migración. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Migración.",
    "importante": "Los trámites y requisitos cambian con frecuencia. Consulta al Instituto Nacional de Migración o a una organización de apoyo.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -490,7 +490,7 @@ window.DATA={
    "palabras": "agraria ejido ejidatario parcela tierras campesino comunal propiedad rural comunidad tribunal agrario",
    "queEs": "Son las reglas sobre la propiedad de la tierra en ejidos y comunidades, y los derechos de ejidatarios, comuneros y posesionarios.",
    "queConlleva": "Los conflictos por parcelas, herencia de derechos o límites se resuelven ante los tribunales agrarios. La Procuraduría Agraria ofrece asesoría.",
-   "ley": "Ley Agraria. Artículos específicos pendientes de verificación.",
+   "ley": "Ley Agraria.",
    "importante": "Los derechos agrarios tienen reglas propias distintas a las del Código Civil. Guarda tus certificados y documentos de la parcela.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -506,7 +506,7 @@ window.DATA={
    "palabras": "fiscal impuestos sat contribuciones multas hacienda credito fiscal declaracion factura rfc",
    "queEs": "Son las reglas para pagar impuestos, cumplir obligaciones como el RFC, las facturas y las declaraciones, y los derechos de quien paga.",
    "queConlleva": "Si no cumples, el SAT puede imponer multas, recargos y cobrar el crédito fiscal. También puedes defenderte con los medios que marca la ley.",
-   "ley": "Código Fiscal de la Federación. Artículos específicos pendientes de verificación.",
+   "ley": "Código Fiscal de la Federación.",
    "importante": "Responde a los requerimientos del SAT dentro del plazo que te den. Conviene apoyarte de un contador.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -524,7 +524,7 @@ window.DATA={
    "palabras": "comercio empresa comerciante negocios mercantil pagare sociedades contrato mercantil deuda cobro",
    "queEs": "Son las reglas de los comerciantes y de los actos de comercio: compraventas entre negocios, contratos mercantiles y juicios mercantiles.",
    "queConlleva": "Quien incumple un contrato mercantil puede ser demandado para cobrar la deuda más intereses, según lo pactado y lo que permita la ley.",
-   "ley": "Código de Comercio. Los pagarés y cheques se rigen también por una ley especial de títulos de crédito. Artículos específicos pendientes de verificación.",
+   "ley": "Código de Comercio. Los pagarés y cheques se rigen también por una ley especial de títulos de crédito.",
    "importante": "Lee bien lo que firmas, sobre todo intereses y plazos. Guarda contratos y comprobantes.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -540,7 +540,7 @@ window.DATA={
    "palabras": "datos personales privacidad informacion personal empresas proteccion identidad arco aviso privacidad",
    "queEs": "Es tu derecho a controlar quién usa tus datos personales, como nombre, teléfono, domicilio o datos financieros.",
    "queConlleva": "Una empresa debe darte un aviso de privacidad y puedes pedir acceder, corregir, cancelar tus datos u oponerte a su uso. Si no cumple, puedes presentar una queja.",
-   "ley": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Artículos específicos pendientes de verificación.",
+   "ley": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares.",
    "importante": "La autoridad encargada de vigilar esta ley cambió recientemente. Verifica cuál es la autoridad vigente antes de presentar una queja.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -556,7 +556,7 @@ window.DATA={
    "palabras": "municipio ayuntamiento presidente municipal cabildo autoridad municipal oaxaca regidor servicios publicos",
    "queEs": "Son las reglas de cómo se organiza y gobierna un municipio de Oaxaca: ayuntamiento, presidente municipal, cabildo y servicios públicos.",
    "queConlleva": "El ayuntamiento es responsable de servicios como agua, alumbrado y limpia, y de emitir reglamentos municipales.",
-   "ley": "Ley Orgánica Municipal del Estado de Oaxaca. Artículos específicos pendientes de verificación.",
+   "ley": "Ley Orgánica Municipal del Estado de Oaxaca.",
    "importante": "Algunos municipios se rigen por sistemas normativos propios. Consulta el caso de tu municipio.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pasos": [
@@ -572,7 +572,7 @@ window.DATA={
    "palabras": "corrupcion servidor publico funcionario responsabilidades sancion administrativa oaxaca soborno abuso cargo queja",
    "queEs": "Son las reglas sobre las faltas de quienes trabajan en el gobierno, como abuso del cargo o soborno, y sus sanciones administrativas.",
    "queConlleva": "Un servidor público puede ser sancionado con amonestación, suspensión, destitución o inhabilitación, según la falta.",
-   "ley": "Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca. Artículos específicos pendientes de verificación.",
+   "ley": "Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.",
    "importante": "Algunas conductas también pueden ser delito y se denuncian ante la Fiscalía. Las quejas administrativas van al órgano de control competente.",
    "web": "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html",
    "pasos": [
@@ -1293,7 +1293,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil barda bardas muro muros pared medianera lindero limite colindancia terreno invadir invadio cerca reja deslinde",
    "queEs": "Son las reglas sobre la barda o pared que separa dos propiedades. Una pared medianera es la que comparten ambos vecinos, y cada uno la usa y la mantiene.",
    "queConlleva": "Si una persona construye sobre el terreno del vecino o daña la pared compartida, puede tener que repararla, demolerla o pagar daños. Los gastos de una pared compartida se reparten, según lo que marque el Código Civil local.",
-   "ley": "Código Civil de tu estado, en el capítulo de la copropiedad y los muros medianeros, y el reglamento de construcción de tu municipio. Artículos específicos pendientes de verificación.",
+   "ley": "Código Civil de tu estado, en el capítulo de la copropiedad y los muros medianeros, y el reglamento de construcción de tu municipio.",
    "importante": "Antes de levantar una barda, confirma dónde está el límite exacto de tu terreno con tus escrituras o un plano. Si tienes duda, un topógrafo puede hacer un deslinde.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1310,7 +1310,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil licencia permiso permisos tramite construir ampliar ampliacion remodelar remodelacion segundo piso piso bardear demoler demolicion planos responsable director",
    "queEs": "Es la autorización del municipio para construir, ampliar, remodelar o demoler. Normalmente se pide a Desarrollo Urbano u Obras Públicas, con planos y datos del terreno.",
    "queConlleva": "Construir con licencia da certeza legal. Sin ella, pueden clausurarte la obra, multarte o pedirte demoler lo construido. También puede dificultar vender o escriturar después.",
-   "ley": "Reglamento de construcción y ley de desarrollo urbano de tu estado o municipio. A nivel nacional, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano da las bases. Artículos específicos pendientes de verificación.",
+   "ley": "Reglamento de construcción y ley de desarrollo urbano de tu estado o municipio. A nivel nacional, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano da las bases.",
    "importante": "Los requisitos y costos cambian por municipio. Algunas obras pequeñas necesitan solo un aviso. Pregunta en Desarrollo Urbano antes de empezar y pide por escrito qué necesitas.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1327,7 +1327,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil clausura clausurar clausurado sellos multa sancion sin permiso sin licencia irregular demoler demolicion inspeccion inspector suspension denuncia",
    "queEs": "Es cuando una obra se hace sin licencia o sin respetar lo autorizado. La autoridad municipal puede inspeccionar, suspender los trabajos, poner sellos de clausura y multar.",
    "queConlleva": "Puede haber multa, suspensión o clausura de la obra y, en casos graves, orden de demolición. Quitar los sellos sin permiso puede traer consecuencias legales adicionales.",
-   "ley": "Reglamento de construcción y ley de desarrollo urbano de tu estado o municipio. Artículos específicos pendientes de verificación.",
+   "ley": "Reglamento de construcción y ley de desarrollo urbano de tu estado o municipio.",
    "importante": "No quites sellos de clausura. Si recibes un aviso de inspección o una orden, léela con calma: suele indicar un plazo para presentar documentos o inconformarte. Anota la fecha en que la recibiste.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1345,7 +1345,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil uso de suelo alineamiento numero oficial altura niveles pisos densidad zonificacion area libre cos cus constancia plan de desarrollo urbano comercial habitacional",
    "queEs": "Son las reglas que dicen qué se puede construir en tu terreno: para qué se puede usar (casa, comercio, industria), cuántos pisos, qué tan alto, cuánto del terreno se puede ocupar y a qué distancia de la calle.",
    "queConlleva": "Si construyes algo que el uso de suelo no permite, puedes recibir multa, clausura o que te nieguen permisos. Hay documentos que el municipio expide para comprobar lo permitido, como la constancia de alineamiento y número oficial.",
-   "ley": "Plan o programa de desarrollo urbano del municipio, reglamento de construcción y ley de desarrollo urbano de tu estado. A nivel nacional, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano. Artículos específicos pendientes de verificación.",
+   "ley": "Plan o programa de desarrollo urbano del municipio, reglamento de construcción y ley de desarrollo urbano de tu estado. A nivel nacional, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.",
    "importante": "Antes de comprar un terreno o abrir un negocio, pide la constancia de uso de suelo. Es la forma de confirmar que lo que quieres hacer sí se puede.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1362,7 +1362,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil grietas daño daños humedad filtracion vibracion ruido polvo escombro derrumbe excavacion cimentacion cuarteaduras indemnizacion afecta afecto molestias",
    "queEs": "Es cuando una obra de al lado causa daños a tu propiedad, como grietas o filtraciones, o molestias fuertes por ruido y polvo.",
    "queConlleva": "Quien causa un daño con su construcción debe repararlo o pagarlo. Si la obra pone en riesgo a personas, la autoridad de protección civil puede intervenir y suspenderla.",
-   "ley": "Código Civil de tu estado, en lo de responsabilidad por daños, y el reglamento de construcción de tu municipio. Si hay riesgo, la Ley General de Protección Civil y las de tu estado. Artículos específicos pendientes de verificación.",
+   "ley": "Código Civil de tu estado, en lo de responsabilidad por daños, y el reglamento de construcción de tu municipio. Si hay riesgo, la Ley General de Protección Civil y las de tu estado.",
    "importante": "Documenta el estado de tu casa lo antes posible, con fotos y fechas. Si hay riesgo de derrumbe, no esperes: llama a Protección Civil.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1380,7 +1380,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil servidumbre paso agua drenaje desague tubo tuberia salida predio encerrado acceso camino vecinos bajada de agua escurrimiento canal",
    "queEs": "Una servidumbre es el derecho de usar una parte del terreno de otra persona para algo necesario, como pasar a tu casa o conducir agua o drenaje. Es común cuando un predio no tiene salida a la calle.",
    "queConlleva": "Quien tiene el derecho puede usarlo, y el dueño del terreno afectado debe permitirlo, normalmente a cambio de una compensación y con el menor daño posible. No se puede bloquear el paso o el desagüe sin una razón legal.",
-   "ley": "Código Civil de tu estado, en el capítulo de servidumbres. Artículos específicos pendientes de verificación.",
+   "ley": "Código Civil de tu estado, en el capítulo de servidumbres.",
    "importante": "Conviene que la servidumbre conste por escrito y esté inscrita en el Registro Público de la Propiedad. Si te bloquean el paso, no uses la fuerza; busca la vía legal.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [
@@ -1397,7 +1397,7 @@ window.DATA={
    "palabras": "obra obras construccion construir construyo construyeron construyen casa edificio terreno lote vecino vecina colindancia arquitecto ingeniero albañil contratista constructor albañil maestro de obra contrato anticipo presupuesto incumple abandono obra mal hecha defectos vicios ocultos retraso pago garantia fianza",
    "queEs": "Es cuando la persona o empresa que contrataste para construir no termina, abandona la obra, cobra de más o la hace con defectos.",
    "queConlleva": "Puedes exigir que termine o repare, pedir una rebaja o la devolución de lo pagado, y reclamar daños. Un contrato por escrito con alcances y fechas hace mucho más fácil probarlo.",
-   "ley": "Código Civil de tu estado y, cuando se trate de una empresa que presta servicios al público, la Ley Federal de Protección al Consumidor. Artículos específicos pendientes de verificación.",
+   "ley": "Código Civil de tu estado y, cuando se trate de una empresa que presta servicios al público, la Ley Federal de Protección al Consumidor.",
    "importante": "Nunca des todo el anticipo de golpe. Paga por avances y pide recibo de cada pago. Si hay mala calidad, no pagues el resto sin una revisión.",
    "web": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
    "pasos": [

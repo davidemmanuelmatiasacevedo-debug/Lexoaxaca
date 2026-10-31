@@ -37,7 +37,7 @@ function enlaces(x){
   return h;
 }
 function badge(t){
-  return t.revisado?'<span class="badge ok">✔ Verificado: '+esc(t.revisado)+'</span>':'<span class="badge pend">Por verificar</span>';
+  return t.revisado?'<span class="badge ok">✔ Verificado: '+esc(t.revisado)+'</span>':"";
 }
 function tema(t,i,abre){
   var h='<article class="card"><button class="t" data-t="'+i+'" aria-expanded="'+abre+'">'+esc(t.nombre)+'</button>'+badge(t);
