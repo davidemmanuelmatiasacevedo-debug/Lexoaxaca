@@ -1,0 +1,26 @@
+:root{--bg:#fafaf7;--tx:#1b1b1b;--card:#fff;--bd:#d9d9d0;--ac:#1f5f4a;--ok:#1f5f4a;--pend:#8a5a00;--fs:18px}
+@media(prefers-color-scheme:dark){:root{--bg:#141a17;--tx:#eef2ee;--card:#1d2621;--bd:#34423b;--ac:#6fd0a8;--ok:#6fd0a8;--pend:#e8b04a}}
+*{box-sizing:border-box}
+html{font-size:var(--fs)}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:system-ui,Segoe UI,Roboto,sans-serif;line-height:1.5}
+header{padding:1rem;background:var(--ac);color:#fff;position:relative}
+header h1{margin:0;font-size:1.5rem}header p{margin:.2rem 0 0}
+.barra{position:absolute;right:.6rem;top:.6rem;display:flex;gap:.3rem}
+.barra button{border:1px solid #fff;background:transparent;color:#fff;border-radius:6px;padding:.2rem .5rem;font-size:.9rem}
+main{max-width:46rem;margin:0 auto;padding:1rem}
+#q{width:100%;font-size:1rem;padding:.8rem;border:2px solid var(--ac);border-radius:10px;background:var(--card);color:var(--tx)}
+nav{display:flex;gap:.4rem;margin:.8rem 0}
+nav button{flex:1;padding:.6rem;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;font-size:.95rem}
+nav button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.aviso{font-size:.85rem;opacity:.8;margin:.2rem 0}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:.9rem;margin:.7rem 0}
+.card h2,.card h3{margin:.2rem 0}.card h2{font-size:1.15rem}.card h3{font-size:.95rem;margin-top:.8rem;color:var(--ac)}
+.card button.t{all:unset;cursor:pointer;display:block;width:100%;font-weight:600;font-size:1.05rem}
+.badge{display:inline-block;font-size:.72rem;padding:.1rem .5rem;border-radius:99px;border:1px solid;margin-top:.3rem}
+.badge.ok{color:var(--ok)}.badge.pend{color:var(--pend)}
+.nota{background:rgba(31,95,74,.1);padding:.5rem;border-radius:6px;margin:.5rem 0}
+.acc{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.7rem}
+.acc button,.card a.b{padding:.4rem .7rem;border:1px solid var(--bd);border-radius:8px;background:transparent;color:var(--tx);font-size:.85rem;text-decoration:none}
+a{color:var(--ac)}
+footer{max-width:46rem;margin:0 auto;padding:1rem;font-size:.8rem;opacity:.85}
+.sr{position:absolute;left:-9999px}
